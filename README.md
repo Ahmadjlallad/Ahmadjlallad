@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ahmadjlallad
 - 👀 I’m interested in cryptocurrency
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ASAC
 - 📫 How to reach me GITHUB
 
 <!---
